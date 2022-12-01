@@ -6,6 +6,7 @@ on:
       - develop
       - master
       - release-0.3-3
+      - mardizzone/node-upgrade-more
   pull_request:
 
 jobs:
